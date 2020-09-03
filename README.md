@@ -1,2 +1,2 @@
-# flutter_class-picture
+# flutter_class
 flutter
